@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=whichModel
+comment0.target=DisplayCube(java.lang.String)
+comment1.params=yAngle\ xAngle\ displayDepthBuffer\ distance\ magnify
+comment1.target=squint.SImage\ render(double,\ double,\ boolean,\ int,\ double)
+comment2.params=x\ y\ z
+comment2.target=int\ min(double,\ double,\ double)
+comment3.params=x\ y\ z
+comment3.target=int\ max(double,\ double,\ double)
+comment4.params=T\ x\ y\ A\ B\ C\ CAxBA\ ABxCA
+comment4.target=double\ zValue(Triangle,\ int,\ int,\ Vector,\ Vector,\ Vector,\ double,\ double)
+comment5.params=layer\ angle
+comment5.target=void\ rotateLayer(java.lang.String,\ double)
+comment6.params=cubieA\ cubieB\ cubieC\ cubieD\ axis\ angle
+comment6.target=void\ rotateLayerGiven(int,\ int,\ int,\ int,\ java.lang.String,\ double)
+comment7.params=mesh1\ mesh2
+comment7.target=Triangle[]\ concatenate(Triangle[],\ Triangle[])
+comment8.params=state
+comment8.target=void\ updateColors(CubeState)
+comment9.params=which
+comment9.target=void\ model(java.lang.String)
+numComments=10

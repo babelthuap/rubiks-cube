@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=RubiksCubeUI()
+comment1.params=which
+comment1.target=void\ buttonClicked(javax.swing.JButton)
+comment2.params=ae
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=move
+comment3.target=void\ animateMove(java.lang.String)
+comment4.params=ae
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=
+comment5.target=void\ menuItemSelected()
+comment6.params=
+comment6.target=void\ sliderChanged()
+comment7.params=on
+comment7.target=void\ allControlsOn(boolean)
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9

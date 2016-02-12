@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ScrambleCube()
+comment1.params=numMoves
+comment1.target=ScrambleCube(int)
+comment2.params=moveNum\ numList\ i
+comment2.target=boolean\ isValidMove(int,\ int[],\ int)
+comment3.params=
+comment3.target=java.lang.String[]\ movesList()
+comment4.params=move
+comment4.target=void\ addToList(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String[]\ solveList()
+comment6.params=
+comment6.target=CubeState\ scrambled()
+numComments=7
