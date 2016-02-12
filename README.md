@@ -10,6 +10,6 @@ Together, Alec and Nicholas used this 3D engine to display a self-solving 2x2x2 
 
 - - - - - - -
 
-*It has been a while since I made this. You can take a look at the source code, but I cringe at bit at how WET it is. If you want to run it, download the `jar-files` folder and then run `solver.jar`. This is what it should look like:*
+*It has been a while since I made this. You can take a look at the source code, but I cringe a bit at how WET it is. If you want to run it, download the `jar-files` folder and then run `solver.jar`. This is what it should look like:*
 
 ![screenshot](/screenshot.png?raw=true)
